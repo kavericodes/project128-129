@@ -1,0 +1,38 @@
+h3{
+    width: 100%;
+    margin: 0;
+}
+
+.heading{
+    font-size: 26px;
+    font-family:cursive;
+}
+
+.note{
+    color: black;
+    font-size: 18px;
+}
+
+#songname{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.copy_right_footer {
+    background-color: rgb(149, 204, 223);
+    width: 100%;
+    color: #170035;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    position: fixed;
+    font-size: 21px;
+    left: 0;
+  }
+
+  canvas{
+    margin-top: 80px;
+    border: 5px solid rgb(42, 159, 255);
+    box-shadow: 2px 2px 40px rgb(0, 38, 143);
+    border-radius: 25px;
+}
